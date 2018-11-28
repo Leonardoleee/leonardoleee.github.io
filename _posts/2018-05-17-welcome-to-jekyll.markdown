@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "MySQL基础架构"
 date:   2018-05-17 14:05:21 +0800
 tags: jekyll update
 color: rgb(255,90,90)
-cover: 'http://47.105.135.189/img/mysql/001-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.jpg'
-subtitle: 'Welcome to Jekyll!'
+cover: 'http://47.105.135.189/img/mysql/mysql-background.png'
+subtitle: 'SELECT语句如何执行'
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
+![avatar](http://47.105.135.189/img/mysql/001-select.png)
 ![avatar](http://47.105.135.189/img/mysql/001-%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84.jpg)
 Jekyll also offers powerful support for code snippets:
 
