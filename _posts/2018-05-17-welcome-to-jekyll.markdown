@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "图见"
+title:  "图见:mysql原理"
 date:   2018-11-28 14:05:21 +0800
 tags: mysql select
 color: rgb(255,90,90)
 cover: 'http://47.105.135.189/img/mysql/mysql-background.png'
-subtitle: 'mysql基础知识: select内部流程'
+subtitle: 'select内部流程'
 ---
 
 
