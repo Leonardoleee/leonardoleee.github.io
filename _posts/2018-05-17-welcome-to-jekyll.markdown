@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "图见:mysql原理"
+title:  "图见:mysql原理:select"
 date:   2018-11-28 14:05:21 +0800
 tags: mysql select
 color: rgb(255,90,90)
