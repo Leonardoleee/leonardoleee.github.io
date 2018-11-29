@@ -21,7 +21,7 @@ bio: 'Bang'
 about: true
 aboutyou: '互联网从业者，古筝玩家'
 # portraits: '/assets/profile.jpeg' # your portraits image file path
-portraits: '/assets/IMG_1549.JPG' # your portraits image file path
+portraits: '/assets/IMG_1549.jpg' # your portraits image file path
 
 # SNS
 SNS: true
