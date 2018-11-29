@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "图见:mysql原理:update"
+title:  "图见:mysql原理:001:update"
 date:   2018-11-29 16:21:00 +0800
 tags: mysql update
 color: rgb(255,90,90)
