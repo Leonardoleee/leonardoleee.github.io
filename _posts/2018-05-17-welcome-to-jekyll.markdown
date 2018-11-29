@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "图见"
-date:   2018-05-17 14:05:21 +0800
-tags: jekyll update
+date:   2018-11-28 14:05:21 +0800
+tags: mysql select
 color: rgb(255,90,90)
 cover: 'http://47.105.135.189/img/mysql/mysql-background.png'
 subtitle: 'mysql基础知识: select内部流程'
