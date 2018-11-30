@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "图见"
+title:  "图见:ELK:工作原理"
 date:   2018-11-30 16:29:21 +0800
 tags: Elasticsearch Logstash Kibana
 color: rgb(255,90,90)
