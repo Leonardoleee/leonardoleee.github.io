@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "自勉"
+title:  "一点个人碎碎念"
 date:   2018-11-28 14:05:21 +0800
 tags: 心得 感悟
 color: rgb(255,90,90)
 cover: 'http://47.105.135.189/img/title/lion.jpg'
-subtitle: '以人为镜，可以明得失；以我为镜，可以知进退。'
+subtitle: '发现新大陆'
 ---
 
 
