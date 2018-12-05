@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "一点个人碎碎念"
-date:   2018-11-28 14:05:21 +0800
+date:   2018-12-05 14:05:21 +0800
 tags: 心得 感悟
 color: rgb(255,90,90)
 cover: 'http://47.105.135.189/img/title/lion.jpg'
