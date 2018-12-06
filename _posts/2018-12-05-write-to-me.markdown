@@ -4,7 +4,7 @@ title:  "一点个人碎碎念"
 date:   2018-12-05 14:05:21 +0800
 tags: 学习 笔记
 color: rgb(255,90,90)
-cover: 'http://47.105.135.189/img/img/title/201812/1205-1.png'
+cover: 'http://47.105.135.189/img/title/201812/1205-1.png'
 subtitle: '惟江上之清风 与山间之明月'
 ---
 
