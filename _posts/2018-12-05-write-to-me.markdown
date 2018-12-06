@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一点个人碎碎念"
+title:  "一点碎碎念"
 date:   2018-12-05 14:05:21 +0800
 tags: 学习 笔记
 color: rgb(255,90,90)
