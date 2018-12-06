@@ -15,13 +15,13 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'LYON LEE'
-NickName: '李昂'
+NickName: '李昂在江南'
 webtitle: '三省吾身'
 bio: 'Bang'
 about: true
 aboutyou: '好读书不求甚解，醉于乐声而不痴，运动、旅行皆为所爱。'
 # portraits: '/assets/profile.jpeg' # your portraits image file path
-portraits: '/assets/IMG_1549.jpg' # your portraits image file path
+portraits: '/assets/head.png' # your portraits image file path
 
 # SNS
 SNS: true
