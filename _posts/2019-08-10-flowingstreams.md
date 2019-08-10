@@ -4,8 +4,8 @@ title:  "高山流水"
 date:   2019-08-10 14:00:00 +0800
 tags:   中国古典音乐
 color: rgb(255,90,90)
-cover: 'http://47.105.135.189:8088/img/2019/floW.jpeg'
-subtitle: ''
+cover: 'http://47.105.135.189:8088/img/2019/flow.jpeg'
+subtitle: '山水之间'
 ---
 
  
