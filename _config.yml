@@ -15,11 +15,11 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'LYON LEE'
-NickName: '李小昂'
+NickName: 'for music'
 webtitle: '给热爱音乐的你'
 bio: 
 about: true
-aboutyou: 'Now, I believe.'
+aboutyou: 'For music.'
 # portraits: '/assets/profile.jpeg' # your portraits image file path
 portraits: '/assets/head.png' # your portraits image file path
 
