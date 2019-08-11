@@ -21,7 +21,7 @@ bio:
 about: true
 aboutyou: 'Now, I believe.'
 # portraits: '/assets/profile.jpeg' # your portraits image file path
-portraits: '/assets/head.png' # your portraits image file path
+portraits: '/assets/Leonardo.png' # your portraits image file path
 
 # SNS
 SNS: true
